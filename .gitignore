@@ -1,0 +1,9 @@
+/target/
+/chat/assets/
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+.env
+.env.*
+__pycache__/
